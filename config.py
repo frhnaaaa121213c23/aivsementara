@@ -1,6 +1,6 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Recode by @amelindoviral2
+# t.me/amelindoviral2 & t.me/amelindoviralbackup
 
 import logging
 import os
@@ -24,8 +24,8 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
 # OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", ""))
 
-# NAMA OWNER
-OWNER = os.environ.get("OWNER", "mrismanaziz")
+# NAMA OWNE
+OWNER = os.environ.get("OWNER", "amelindoviral2")
 
 # Database
 DB_URI = os.environ.get("DATABASE_URL", "")
